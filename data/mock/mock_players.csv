@@ -1,0 +1,485 @@
+player_id,name,position,team_name,team_abbrev,conference,age,experience,jersey_number,tier
+1000,Lamar Jackson,QB,Kansas City Chiefs,KC,AFC,30,6,9,starter
+1001,Jalen Hurts,QB,Kansas City Chiefs,KC,AFC,25,4,73,backup
+1002,Joe Mixon,RB,Kansas City Chiefs,KC,AFC,23,3,64,starter
+1003,Marcus McCaffrey,RB,Kansas City Chiefs,KC,AFC,28,4,37,rb2
+1004,Brandon Mixon,RB,Kansas City Chiefs,KC,AFC,31,10,82,depth
+1005,Keenan Allen,WR,Kansas City Chiefs,KC,AFC,36,12,37,starter
+1006,DeAndre Hopkins,WR,Kansas City Chiefs,KC,AFC,29,8,70,wr2
+1007,DeShawn Lamb,WR,Kansas City Chiefs,KC,AFC,25,5,13,depth
+1008,Keenan Allen,WR,Kansas City Chiefs,KC,AFC,25,3,70,depth
+1009,Marcus Adams,WR,Kansas City Chiefs,KC,AFC,25,5,5,depth
+1010,A.J. Brown,WR,Kansas City Chiefs,KC,AFC,25,5,14,depth
+1011,Dallas Goedert,TE,Kansas City Chiefs,KC,AFC,27,5,33,starter
+1012,Jordan Njoku,TE,Kansas City Chiefs,KC,AFC,29,7,47,backup
+1013,Aaron Rodgers,QB,Philadelphia Eagles,PHI,NFC,30,8,20,starter
+1014,Aaron Rodgers,QB,Philadelphia Eagles,PHI,NFC,26,6,35,backup
+1015,Josh Allen III,QB,Philadelphia Eagles,PHI,NFC,21,1,98,backup
+1016,Nick Chubb,RB,Philadelphia Eagles,PHI,NFC,25,3,43,starter
+1017,Aaron Jones,RB,Philadelphia Eagles,PHI,NFC,33,12,28,rb2
+1018,Jonathan Taylor,RB,Philadelphia Eagles,PHI,NFC,25,2,82,depth
+1019,Dalvin Cook,RB,Philadelphia Eagles,PHI,NFC,29,6,83,depth
+1020,DK Metcalf,WR,Philadelphia Eagles,PHI,NFC,25,3,80,starter
+1021,Stefon Diggs,WR,Philadelphia Eagles,PHI,NFC,24,4,76,wr2
+1022,Michael Diggs,WR,Philadelphia Eagles,PHI,NFC,27,6,72,depth
+1023,Davante Adams,WR,Philadelphia Eagles,PHI,NFC,30,7,43,depth
+1024,Tyreek Hill,WR,Philadelphia Eagles,PHI,NFC,27,6,67,depth
+1025,DK Metcalf,WR,Philadelphia Eagles,PHI,NFC,26,4,44,depth
+1026,Davante Adams Sr.,WR,Philadelphia Eagles,PHI,NFC,31,7,7,depth
+1027,Travis Kelce,TE,Philadelphia Eagles,PHI,NFC,26,4,75,starter
+1028,Brandon Kittle,TE,Philadelphia Eagles,PHI,NFC,26,3,11,backup
+1029,Tyler Andrews,TE,Philadelphia Eagles,PHI,NFC,23,2,60,backup
+1030,Tua Tagovailoa,QB,Buffalo Bills,BUF,AFC,28,6,42,starter
+1031,Brandon Hurts,QB,Buffalo Bills,BUF,AFC,27,3,75,backup
+1032,Tua Tagovailoa,QB,Buffalo Bills,BUF,AFC,32,8,59,backup
+1033,Aaron Jones,RB,Buffalo Bills,BUF,AFC,31,10,82,starter
+1034,Nick Chubb III,RB,Buffalo Bills,BUF,AFC,24,2,83,rb2
+1035,Aaron Jones Jr.,RB,Buffalo Bills,BUF,AFC,26,6,77,depth
+1036,Tyreek Hill,WR,Buffalo Bills,BUF,AFC,27,3,6,starter
+1037,Keenan Allen,WR,Buffalo Bills,BUF,AFC,29,5,43,wr2
+1038,Michael Adams,WR,Buffalo Bills,BUF,AFC,26,6,34,depth
+1039,DeAndre Hopkins II,WR,Buffalo Bills,BUF,AFC,29,6,3,depth
+1040,Keenan Allen,WR,Buffalo Bills,BUF,AFC,26,2,51,depth
+1041,Brandon Metcalf,WR,Buffalo Bills,BUF,AFC,21,1,5,depth
+1042,T.J. Hockenson,TE,Buffalo Bills,BUF,AFC,25,3,21,starter
+1043,David Njoku,TE,Buffalo Bills,BUF,AFC,28,6,96,backup
+1044,Kyle Pitts Jr.,TE,Buffalo Bills,BUF,AFC,26,5,94,backup
+1045,Josh Allen,QB,Dallas Cowboys,DAL,NFC,27,3,10,starter
+1046,Jalen Hurts,QB,Dallas Cowboys,DAL,NFC,31,8,84,backup
+1047,Justin Herbert,QB,Dallas Cowboys,DAL,NFC,33,12,64,backup
+1048,Christian McCaffrey,RB,Dallas Cowboys,DAL,NFC,33,10,9,starter
+1049,Saquon Barkley,RB,Dallas Cowboys,DAL,NFC,23,2,53,rb2
+1050,Jonathan Taylor,RB,Dallas Cowboys,DAL,NFC,30,6,34,depth
+1051,Tyreek Hill,WR,Dallas Cowboys,DAL,NFC,29,6,87,starter
+1052,CeeDee Lamb,WR,Dallas Cowboys,DAL,NFC,29,8,22,wr2
+1053,Stefon Diggs,WR,Dallas Cowboys,DAL,NFC,29,9,34,depth
+1054,A.J. Brown,WR,Dallas Cowboys,DAL,NFC,26,5,72,depth
+1055,Jordan Diggs,WR,Dallas Cowboys,DAL,NFC,27,7,76,depth
+1056,Marcus Brown,WR,Dallas Cowboys,DAL,NFC,28,8,12,depth
+1057,Kyle Pitts,TE,Dallas Cowboys,DAL,NFC,35,12,99,starter
+1058,Dallas Goedert,TE,Dallas Cowboys,DAL,NFC,30,9,77,backup
+1059,Jalen Hurts,QB,San Francisco 49ers,SF,NFC,22,1,20,starter
+1060,Tua Tagovailoa,QB,San Francisco 49ers,SF,NFC,27,3,32,backup
+1061,Derrick Henry,RB,San Francisco 49ers,SF,NFC,27,5,55,starter
+1062,Austin Ekeler,RB,San Francisco 49ers,SF,NFC,34,12,36,rb2
+1063,Aaron Jones,RB,San Francisco 49ers,SF,NFC,28,5,37,depth
+1064,Michael Taylor,RB,San Francisco 49ers,SF,NFC,29,9,53,depth
+1065,Aaron Jones,RB,San Francisco 49ers,SF,NFC,27,6,97,depth
+1066,Mike Evans,WR,San Francisco 49ers,SF,NFC,26,3,45,starter
+1067,Mike Evans,WR,San Francisco 49ers,SF,NFC,22,1,37,wr2
+1068,DeAndre Hopkins Jr.,WR,San Francisco 49ers,SF,NFC,34,11,98,depth
+1069,Keenan Allen,WR,San Francisco 49ers,SF,NFC,31,7,77,depth
+1070,Keenan Allen,WR,San Francisco 49ers,SF,NFC,31,11,34,depth
+1071,Cooper Kupp,WR,San Francisco 49ers,SF,NFC,32,8,74,depth
+1072,Dallas Goedert,TE,San Francisco 49ers,SF,NFC,22,1,26,starter
+1073,Darren Waller Sr.,TE,San Francisco 49ers,SF,NFC,28,5,30,backup
+1074,DeShawn Andrews,TE,San Francisco 49ers,SF,NFC,31,10,71,backup
+1075,Kirk Cousins,QB,Miami Dolphins,MIA,AFC,27,5,35,starter
+1076,Michael Rodgers,QB,Miami Dolphins,MIA,AFC,30,8,33,backup
+1077,Justin Herbert,QB,Miami Dolphins,MIA,AFC,31,8,65,backup
+1078,Dalvin Cook,RB,Miami Dolphins,MIA,AFC,28,4,45,starter
+1079,Michael Henry,RB,Miami Dolphins,MIA,AFC,24,4,4,rb2
+1080,Dalvin Cook,RB,Miami Dolphins,MIA,AFC,29,6,37,depth
+1081,CeeDee Lamb,WR,Miami Dolphins,MIA,AFC,35,12,17,starter
+1082,Stefon Diggs,WR,Miami Dolphins,MIA,AFC,36,12,70,wr2
+1083,Cooper Kupp,WR,Miami Dolphins,MIA,AFC,22,2,21,depth
+1084,Mike Evans,WR,Miami Dolphins,MIA,AFC,29,6,87,depth
+1085,Brandon Brown,WR,Miami Dolphins,MIA,AFC,27,6,31,depth
+1086,CeeDee Lamb Jr.,WR,Miami Dolphins,MIA,AFC,25,1,71,depth
+1087,DK Metcalf,WR,Miami Dolphins,MIA,AFC,21,1,31,depth
+1088,T.J. Hockenson,TE,Miami Dolphins,MIA,AFC,35,12,71,starter
+1089,George Kittle Jr.,TE,Miami Dolphins,MIA,AFC,28,6,60,backup
+1090,David Njoku,TE,Miami Dolphins,MIA,AFC,27,5,29,backup
+1091,Trevor Lawrence,QB,Cincinnati Bengals,CIN,AFC,26,3,71,starter
+1092,Russell Wilson,QB,Cincinnati Bengals,CIN,AFC,27,5,71,backup
+1093,Alvin Kamara,RB,Cincinnati Bengals,CIN,AFC,33,10,51,starter
+1094,Austin Ekeler II,RB,Cincinnati Bengals,CIN,AFC,30,8,37,rb2
+1095,Jordan Chubb,RB,Cincinnati Bengals,CIN,AFC,34,12,56,depth
+1096,Davante Adams,WR,Cincinnati Bengals,CIN,AFC,28,8,58,starter
+1097,DK Metcalf,WR,Cincinnati Bengals,CIN,AFC,29,7,78,wr2
+1098,Mike Evans,WR,Cincinnati Bengals,CIN,AFC,32,10,84,depth
+1099,Tyler Hopkins,WR,Cincinnati Bengals,CIN,AFC,29,5,69,depth
+1100,A.J. Brown,WR,Cincinnati Bengals,CIN,AFC,28,4,27,depth
+1101,DeShawn Diggs,WR,Cincinnati Bengals,CIN,AFC,33,12,81,depth
+1102,Stefon Diggs,WR,Cincinnati Bengals,CIN,AFC,27,7,72,depth
+1103,Dallas Goedert,TE,Cincinnati Bengals,CIN,AFC,31,10,64,starter
+1104,Jordan Andrews,TE,Cincinnati Bengals,CIN,AFC,26,5,1,backup
+1105,Tyler Goedert,TE,Cincinnati Bengals,CIN,AFC,30,10,9,backup
+1106,Jalen Hurts,QB,New York Jets,NYJ,AFC,23,1,74,starter
+1107,Justin Herbert,QB,New York Jets,NYJ,AFC,26,2,96,backup
+1108,Austin Ekeler,RB,New York Jets,NYJ,AFC,24,2,91,starter
+1109,Jonathan Taylor,RB,New York Jets,NYJ,AFC,29,6,41,rb2
+1110,Nick Chubb Sr.,RB,New York Jets,NYJ,AFC,25,3,22,depth
+1111,DK Metcalf,WR,New York Jets,NYJ,AFC,28,7,98,starter
+1112,Brandon Adams,WR,New York Jets,NYJ,AFC,29,8,33,wr2
+1113,Davante Adams Jr.,WR,New York Jets,NYJ,AFC,32,10,72,depth
+1114,Stefon Diggs,WR,New York Jets,NYJ,AFC,24,1,14,depth
+1115,Tyler Allen,WR,New York Jets,NYJ,AFC,33,10,79,depth
+1116,Darren Waller,TE,New York Jets,NYJ,AFC,33,12,81,starter
+1117,George Kittle,TE,New York Jets,NYJ,AFC,25,2,11,backup
+1118,Mark Andrews Sr.,TE,New York Jets,NYJ,AFC,26,4,10,backup
+1119,Russell Wilson,QB,Minnesota Vikings,MIN,NFC,28,5,75,starter
+1120,Josh Allen II,QB,Minnesota Vikings,MIN,NFC,31,7,66,backup
+1121,Aaron Jones,RB,Minnesota Vikings,MIN,NFC,21,1,65,starter
+1122,Dalvin Cook,RB,Minnesota Vikings,MIN,NFC,25,3,66,rb2
+1123,Saquon Barkley,RB,Minnesota Vikings,MIN,NFC,31,7,34,depth
+1124,Tyler Cook,RB,Minnesota Vikings,MIN,NFC,24,1,11,depth
+1125,DeShawn Ekeler,RB,Minnesota Vikings,MIN,NFC,34,11,69,depth
+1126,Tyreek Hill,WR,Minnesota Vikings,MIN,NFC,31,11,66,starter
+1127,Cooper Kupp,WR,Minnesota Vikings,MIN,NFC,33,12,28,wr2
+1128,Tyler Brown,WR,Minnesota Vikings,MIN,NFC,30,10,54,depth
+1129,DK Metcalf Jr.,WR,Minnesota Vikings,MIN,NFC,27,7,51,depth
+1130,A.J. Brown,WR,Minnesota Vikings,MIN,NFC,23,2,35,depth
+1131,T.J. Hockenson,TE,Minnesota Vikings,MIN,NFC,23,1,92,starter
+1132,Darren Waller,TE,Minnesota Vikings,MIN,NFC,30,10,29,backup
+1133,Kirk Cousins,QB,Jacksonville Jaguars,JAX,AFC,27,4,23,starter
+1134,Lamar Jackson,QB,Jacksonville Jaguars,JAX,AFC,36,12,22,backup
+1135,Austin Ekeler,RB,Jacksonville Jaguars,JAX,AFC,29,9,79,starter
+1136,Jonathan Taylor III,RB,Jacksonville Jaguars,JAX,AFC,29,8,30,rb2
+1137,Jonathan Taylor,RB,Jacksonville Jaguars,JAX,AFC,31,8,96,depth
+1138,Brandon Cook,RB,Jacksonville Jaguars,JAX,AFC,33,11,68,depth
+1139,Alvin Kamara,RB,Jacksonville Jaguars,JAX,AFC,27,5,54,depth
+1140,Cooper Kupp,WR,Jacksonville Jaguars,JAX,AFC,34,12,59,starter
+1141,Davante Adams,WR,Jacksonville Jaguars,JAX,AFC,32,9,1,wr2
+1142,Mike Evans,WR,Jacksonville Jaguars,JAX,AFC,27,6,83,depth
+1143,Brandon Kupp,WR,Jacksonville Jaguars,JAX,AFC,32,10,57,depth
+1144,Davante Adams,WR,Jacksonville Jaguars,JAX,AFC,26,3,64,depth
+1145,CeeDee Lamb,WR,Jacksonville Jaguars,JAX,AFC,28,6,39,depth
+1146,Mark Andrews,TE,Jacksonville Jaguars,JAX,AFC,22,2,58,starter
+1147,Dallas Goedert III,TE,Jacksonville Jaguars,JAX,AFC,31,11,59,backup
+1148,Pat Freiermuth II,TE,Jacksonville Jaguars,JAX,AFC,22,1,66,backup
+1149,Dak Prescott,QB,Green Bay Packers,GB,NFC,32,8,99,starter
+1150,Lamar Jackson,QB,Green Bay Packers,GB,NFC,28,7,65,backup
+1151,Dak Prescott,QB,Green Bay Packers,GB,NFC,30,10,4,backup
+1152,Christian McCaffrey,RB,Green Bay Packers,GB,NFC,27,3,34,starter
+1153,Brandon McCaffrey,RB,Green Bay Packers,GB,NFC,27,4,63,rb2
+1154,Austin Ekeler,RB,Green Bay Packers,GB,NFC,27,3,96,depth
+1155,Tyler Ekeler,RB,Green Bay Packers,GB,NFC,32,11,33,depth
+1156,Austin Ekeler,RB,Green Bay Packers,GB,NFC,28,8,14,depth
+1157,DK Metcalf,WR,Green Bay Packers,GB,NFC,30,6,20,starter
+1158,CeeDee Lamb,WR,Green Bay Packers,GB,NFC,23,2,41,wr2
+1159,CeeDee Lamb Jr.,WR,Green Bay Packers,GB,NFC,33,10,46,depth
+1160,Cooper Kupp II,WR,Green Bay Packers,GB,NFC,23,1,40,depth
+1161,DK Metcalf,WR,Green Bay Packers,GB,NFC,25,1,42,depth
+1162,DeAndre Hopkins,WR,Green Bay Packers,GB,NFC,28,8,9,depth
+1163,David Njoku,TE,Green Bay Packers,GB,NFC,33,12,98,starter
+1164,Mark Andrews,TE,Green Bay Packers,GB,NFC,29,8,3,backup
+1165,George Kittle III,TE,Green Bay Packers,GB,NFC,23,2,54,backup
+1166,Russell Wilson,QB,Detroit Lions,DET,NFC,30,7,58,starter
+1167,Brandon Prescott,QB,Detroit Lions,DET,NFC,31,7,79,backup
+1168,Jonathan Taylor,RB,Detroit Lions,DET,NFC,30,9,50,starter
+1169,Austin Ekeler,RB,Detroit Lions,DET,NFC,25,1,87,rb2
+1170,Marcus Kamara,RB,Detroit Lions,DET,NFC,30,10,89,depth
+1171,Davante Adams,WR,Detroit Lions,DET,NFC,29,9,73,starter
+1172,Cooper Kupp,WR,Detroit Lions,DET,NFC,36,12,60,wr2
+1173,A.J. Brown II,WR,Detroit Lions,DET,NFC,30,7,62,depth
+1174,Tyreek Hill,WR,Detroit Lions,DET,NFC,24,3,79,depth
+1175,Marcus Metcalf,WR,Detroit Lions,DET,NFC,33,9,60,depth
+1176,Keenan Allen,WR,Detroit Lions,DET,NFC,28,5,64,depth
+1177,Evan Engram,TE,Detroit Lions,DET,NFC,26,6,32,starter
+1178,Tyler Goedert,TE,Detroit Lions,DET,NFC,26,3,90,backup
+1179,Evan Engram,TE,Detroit Lions,DET,NFC,32,12,49,backup
+1180,Trevor Lawrence,QB,Seattle Seahawks,SEA,NFC,23,3,55,starter
+1181,Dak Prescott,QB,Seattle Seahawks,SEA,NFC,26,2,47,backup
+1182,Austin Ekeler,RB,Seattle Seahawks,SEA,NFC,30,8,21,starter
+1183,Dalvin Cook II,RB,Seattle Seahawks,SEA,NFC,33,10,31,rb2
+1184,Alvin Kamara,RB,Seattle Seahawks,SEA,NFC,25,1,26,depth
+1185,Tyler Henry,RB,Seattle Seahawks,SEA,NFC,36,12,20,depth
+1186,Jordan Barkley,RB,Seattle Seahawks,SEA,NFC,28,6,79,depth
+1187,DeAndre Hopkins,WR,Seattle Seahawks,SEA,NFC,25,3,53,starter
+1188,Davante Adams,WR,Seattle Seahawks,SEA,NFC,31,11,55,wr2
+1189,Jordan Hopkins,WR,Seattle Seahawks,SEA,NFC,29,7,83,depth
+1190,Cooper Kupp,WR,Seattle Seahawks,SEA,NFC,29,9,7,depth
+1191,Tyreek Hill,WR,Seattle Seahawks,SEA,NFC,33,9,2,depth
+1192,Michael Adams,WR,Seattle Seahawks,SEA,NFC,31,11,8,depth
+1193,Pat Freiermuth,TE,Seattle Seahawks,SEA,NFC,25,4,1,starter
+1194,George Kittle,TE,Seattle Seahawks,SEA,NFC,23,3,38,backup
+1195,Russell Wilson,QB,Los Angeles Chargers,LAC,AFC,28,8,59,starter
+1196,Brandon Tagovailoa,QB,Los Angeles Chargers,LAC,AFC,30,8,19,backup
+1197,Derrick Henry,RB,Los Angeles Chargers,LAC,AFC,31,11,26,starter
+1198,Brandon Taylor,RB,Los Angeles Chargers,LAC,AFC,34,12,81,rb2
+1199,Marcus Ekeler,RB,Los Angeles Chargers,LAC,AFC,30,7,18,depth
+1200,Alvin Kamara III,RB,Los Angeles Chargers,LAC,AFC,33,11,72,depth
+1201,Nick Chubb,RB,Los Angeles Chargers,LAC,AFC,26,4,98,depth
+1202,Cooper Kupp,WR,Los Angeles Chargers,LAC,AFC,27,6,50,starter
+1203,Davante Adams,WR,Los Angeles Chargers,LAC,AFC,28,5,62,wr2
+1204,DeAndre Hopkins,WR,Los Angeles Chargers,LAC,AFC,30,10,54,depth
+1205,Keenan Allen Sr.,WR,Los Angeles Chargers,LAC,AFC,24,3,71,depth
+1206,Tyreek Hill,WR,Los Angeles Chargers,LAC,AFC,22,1,26,depth
+1207,Jordan Brown,WR,Los Angeles Chargers,LAC,AFC,28,7,1,depth
+1208,David Njoku,TE,Los Angeles Chargers,LAC,AFC,32,9,55,starter
+1209,Darren Waller,TE,Los Angeles Chargers,LAC,AFC,36,12,3,backup
+1210,George Kittle,TE,Los Angeles Chargers,LAC,AFC,31,10,88,backup
+1211,Jalen Hurts,QB,Baltimore Ravens,BAL,AFC,31,11,92,starter
+1212,Tua Tagovailoa,QB,Baltimore Ravens,BAL,AFC,29,8,73,backup
+1213,DeShawn Prescott,QB,Baltimore Ravens,BAL,AFC,27,6,65,backup
+1214,Jonathan Taylor,RB,Baltimore Ravens,BAL,AFC,25,2,94,starter
+1215,Aaron Jones,RB,Baltimore Ravens,BAL,AFC,35,12,73,rb2
+1216,Christian McCaffrey Jr.,RB,Baltimore Ravens,BAL,AFC,31,9,52,depth
+1217,DK Metcalf,WR,Baltimore Ravens,BAL,AFC,31,8,44,starter
+1218,Mike Evans III,WR,Baltimore Ravens,BAL,AFC,29,5,2,wr2
+1219,Mike Evans,WR,Baltimore Ravens,BAL,AFC,25,2,37,depth
+1220,Stefon Diggs,WR,Baltimore Ravens,BAL,AFC,32,10,81,depth
+1221,Cooper Kupp,WR,Baltimore Ravens,BAL,AFC,25,4,47,depth
+1222,George Kittle,TE,Baltimore Ravens,BAL,AFC,27,3,43,starter
+1223,David Njoku,TE,Baltimore Ravens,BAL,AFC,25,2,75,backup
+1224,Mark Andrews,TE,Baltimore Ravens,BAL,AFC,28,8,31,backup
+1225,Kirk Cousins,QB,Cleveland Browns,CLE,AFC,28,4,14,starter
+1226,Lamar Jackson,QB,Cleveland Browns,CLE,AFC,27,7,48,backup
+1227,Marcus Lawrence,QB,Cleveland Browns,CLE,AFC,26,3,42,backup
+1228,Aaron Jones,RB,Cleveland Browns,CLE,AFC,31,7,18,starter
+1229,Aaron Jones III,RB,Cleveland Browns,CLE,AFC,27,7,60,rb2
+1230,Saquon Barkley Sr.,RB,Cleveland Browns,CLE,AFC,30,9,93,depth
+1231,Nick Chubb,RB,Cleveland Browns,CLE,AFC,35,11,47,depth
+1232,Alvin Kamara Jr.,RB,Cleveland Browns,CLE,AFC,21,1,35,depth
+1233,Cooper Kupp,WR,Cleveland Browns,CLE,AFC,29,9,45,starter
+1234,Mike Evans III,WR,Cleveland Browns,CLE,AFC,32,8,85,wr2
+1235,DK Metcalf,WR,Cleveland Browns,CLE,AFC,23,2,79,depth
+1236,DeShawn Kupp,WR,Cleveland Browns,CLE,AFC,27,4,50,depth
+1237,Tyreek Hill,WR,Cleveland Browns,CLE,AFC,30,6,83,depth
+1238,Kyle Pitts,TE,Cleveland Browns,CLE,AFC,32,11,38,starter
+1239,Darren Waller,TE,Cleveland Browns,CLE,AFC,26,6,57,backup
+1240,Josh Allen,QB,Tampa Bay Buccaneers,TB,NFC,27,3,36,starter
+1241,Kirk Cousins Jr.,QB,Tampa Bay Buccaneers,TB,NFC,30,7,24,backup
+1242,Derrick Henry,RB,Tampa Bay Buccaneers,TB,NFC,25,4,30,starter
+1243,DeShawn Kamara,RB,Tampa Bay Buccaneers,TB,NFC,24,4,71,rb2
+1244,Saquon Barkley,RB,Tampa Bay Buccaneers,TB,NFC,29,7,31,depth
+1245,Joe Mixon III,RB,Tampa Bay Buccaneers,TB,NFC,25,4,55,depth
+1246,Davante Adams,WR,Tampa Bay Buccaneers,TB,NFC,26,4,82,starter
+1247,A.J. Brown Jr.,WR,Tampa Bay Buccaneers,TB,NFC,27,6,40,wr2
+1248,A.J. Brown,WR,Tampa Bay Buccaneers,TB,NFC,27,6,81,depth
+1249,DK Metcalf,WR,Tampa Bay Buccaneers,TB,NFC,32,10,13,depth
+1250,A.J. Brown,WR,Tampa Bay Buccaneers,TB,NFC,30,9,46,depth
+1251,Dallas Goedert,TE,Tampa Bay Buccaneers,TB,NFC,32,8,79,starter
+1252,Jordan Andrews,TE,Tampa Bay Buccaneers,TB,NFC,25,2,20,backup
+1253,Justin Herbert,QB,Las Vegas Raiders,LV,AFC,30,10,52,starter
+1254,Marcus Allen,QB,Las Vegas Raiders,LV,AFC,27,3,91,backup
+1255,Christian McCaffrey,RB,Las Vegas Raiders,LV,AFC,31,10,34,starter
+1256,Alvin Kamara,RB,Las Vegas Raiders,LV,AFC,21,1,34,rb2
+1257,Alvin Kamara,RB,Las Vegas Raiders,LV,AFC,27,5,83,depth
+1258,Brandon Ekeler,RB,Las Vegas Raiders,LV,AFC,27,7,86,depth
+1259,Cooper Kupp,WR,Las Vegas Raiders,LV,AFC,25,3,75,starter
+1260,DK Metcalf,WR,Las Vegas Raiders,LV,AFC,25,3,43,wr2
+1261,Cooper Kupp,WR,Las Vegas Raiders,LV,AFC,28,4,30,depth
+1262,Cooper Kupp,WR,Las Vegas Raiders,LV,AFC,24,3,9,depth
+1263,DK Metcalf,WR,Las Vegas Raiders,LV,AFC,29,6,55,depth
+1264,Stefon Diggs,WR,Las Vegas Raiders,LV,AFC,24,3,60,depth
+1265,CeeDee Lamb,WR,Las Vegas Raiders,LV,AFC,32,8,89,depth
+1266,David Njoku,TE,Las Vegas Raiders,LV,AFC,22,1,50,starter
+1267,David Njoku,TE,Las Vegas Raiders,LV,AFC,26,3,5,backup
+1268,Josh Allen,QB,Atlanta Falcons,ATL,NFC,28,7,81,starter
+1269,Michael Allen,QB,Atlanta Falcons,ATL,NFC,34,12,36,backup
+1270,Justin Herbert,QB,Atlanta Falcons,ATL,NFC,28,6,52,backup
+1271,Nick Chubb,RB,Atlanta Falcons,ATL,NFC,34,10,78,starter
+1272,Brandon Taylor,RB,Atlanta Falcons,ATL,NFC,24,1,39,rb2
+1273,Aaron Jones Jr.,RB,Atlanta Falcons,ATL,NFC,27,4,88,depth
+1274,Christian McCaffrey,RB,Atlanta Falcons,ATL,NFC,25,4,55,depth
+1275,Dalvin Cook,RB,Atlanta Falcons,ATL,NFC,25,1,96,depth
+1276,Stefon Diggs,WR,Atlanta Falcons,ATL,NFC,24,4,54,starter
+1277,A.J. Brown,WR,Atlanta Falcons,ATL,NFC,27,4,31,wr2
+1278,Michael Hopkins,WR,Atlanta Falcons,ATL,NFC,27,7,10,depth
+1279,Tyler Adams,WR,Atlanta Falcons,ATL,NFC,32,12,95,depth
+1280,DeAndre Hopkins,WR,Atlanta Falcons,ATL,NFC,32,12,10,depth
+1281,George Kittle,TE,Atlanta Falcons,ATL,NFC,32,10,27,starter
+1282,Michael Freiermuth,TE,Atlanta Falcons,ATL,NFC,22,1,33,backup
+1283,Pat Freiermuth,TE,Atlanta Falcons,ATL,NFC,27,7,56,backup
+1284,Josh Allen,QB,Pittsburgh Steelers,PIT,AFC,30,6,72,starter
+1285,Josh Allen,QB,Pittsburgh Steelers,PIT,AFC,29,7,58,backup
+1286,Jonathan Taylor,RB,Pittsburgh Steelers,PIT,AFC,25,1,13,starter
+1287,Nick Chubb,RB,Pittsburgh Steelers,PIT,AFC,22,2,45,rb2
+1288,DeShawn Barkley,RB,Pittsburgh Steelers,PIT,AFC,24,4,1,depth
+1289,Saquon Barkley,RB,Pittsburgh Steelers,PIT,AFC,32,11,28,depth
+1290,Nick Chubb,RB,Pittsburgh Steelers,PIT,AFC,24,4,76,depth
+1291,Tyreek Hill,WR,Pittsburgh Steelers,PIT,AFC,35,11,65,starter
+1292,DK Metcalf,WR,Pittsburgh Steelers,PIT,AFC,25,5,18,wr2
+1293,Cooper Kupp,WR,Pittsburgh Steelers,PIT,AFC,32,11,6,depth
+1294,DeAndre Hopkins,WR,Pittsburgh Steelers,PIT,AFC,25,3,83,depth
+1295,Davante Adams,WR,Pittsburgh Steelers,PIT,AFC,22,2,9,depth
+1296,CeeDee Lamb II,WR,Pittsburgh Steelers,PIT,AFC,29,9,43,depth
+1297,A.J. Brown,WR,Pittsburgh Steelers,PIT,AFC,28,4,91,depth
+1298,Mark Andrews,TE,Pittsburgh Steelers,PIT,AFC,27,7,81,starter
+1299,Jordan Freiermuth,TE,Pittsburgh Steelers,PIT,AFC,36,12,66,backup
+1300,Jalen Hurts,QB,Los Angeles Rams,LAR,NFC,28,5,70,starter
+1301,Jalen Hurts,QB,Los Angeles Rams,LAR,NFC,35,11,40,backup
+1302,Austin Ekeler,RB,Los Angeles Rams,LAR,NFC,25,1,50,starter
+1303,Jordan Taylor,RB,Los Angeles Rams,LAR,NFC,28,5,89,rb2
+1304,Christian McCaffrey Sr.,RB,Los Angeles Rams,LAR,NFC,31,8,41,depth
+1305,Tyreek Hill,WR,Los Angeles Rams,LAR,NFC,27,3,28,starter
+1306,CeeDee Lamb,WR,Los Angeles Rams,LAR,NFC,25,5,72,wr2
+1307,Davante Adams III,WR,Los Angeles Rams,LAR,NFC,34,11,93,depth
+1308,Cooper Kupp,WR,Los Angeles Rams,LAR,NFC,25,1,70,depth
+1309,Keenan Allen,WR,Los Angeles Rams,LAR,NFC,35,11,73,depth
+1310,Davante Adams,WR,Los Angeles Rams,LAR,NFC,25,4,97,depth
+1311,A.J. Brown,WR,Los Angeles Rams,LAR,NFC,27,5,75,depth
+1312,Mark Andrews,TE,Los Angeles Rams,LAR,NFC,23,2,21,starter
+1313,Mark Andrews,TE,Los Angeles Rams,LAR,NFC,28,4,32,backup
+1314,David Njoku III,TE,Los Angeles Rams,LAR,NFC,35,12,37,backup
+1315,Dak Prescott,QB,Houston Texans,HOU,AFC,29,9,91,starter
+1316,Brandon Prescott,QB,Houston Texans,HOU,AFC,32,10,36,backup
+1317,Kirk Cousins,QB,Houston Texans,HOU,AFC,28,8,47,backup
+1318,Dalvin Cook,RB,Houston Texans,HOU,AFC,25,2,72,starter
+1319,Michael Henry,RB,Houston Texans,HOU,AFC,27,5,46,rb2
+1320,Michael Taylor,RB,Houston Texans,HOU,AFC,34,11,11,depth
+1321,Alvin Kamara II,RB,Houston Texans,HOU,AFC,29,8,25,depth
+1322,DK Metcalf,WR,Houston Texans,HOU,AFC,32,10,78,starter
+1323,Keenan Allen,WR,Houston Texans,HOU,AFC,31,10,21,wr2
+1324,A.J. Brown,WR,Houston Texans,HOU,AFC,28,8,96,depth
+1325,A.J. Brown,WR,Houston Texans,HOU,AFC,32,12,67,depth
+1326,Stefon Diggs,WR,Houston Texans,HOU,AFC,26,5,59,depth
+1327,Kyle Pitts,TE,Houston Texans,HOU,AFC,24,4,96,starter
+1328,Tyler Hockenson,TE,Houston Texans,HOU,AFC,24,1,45,backup
+1329,Lamar Jackson,QB,New York Giants,NYG,NFC,30,6,59,starter
+1330,DeShawn Hurts,QB,New York Giants,NYG,NFC,26,6,5,backup
+1331,Marcus Jackson,QB,New York Giants,NYG,NFC,30,7,25,backup
+1332,Austin Ekeler,RB,New York Giants,NYG,NFC,28,4,12,starter
+1333,Austin Ekeler III,RB,New York Giants,NYG,NFC,23,3,92,rb2
+1334,Jonathan Taylor,RB,New York Giants,NYG,NFC,33,11,31,depth
+1335,Aaron Jones,RB,New York Giants,NYG,NFC,31,9,12,depth
+1336,DeAndre Hopkins,WR,New York Giants,NYG,NFC,27,3,77,starter
+1337,Mike Evans,WR,New York Giants,NYG,NFC,31,11,54,wr2
+1338,DeShawn Brown,WR,New York Giants,NYG,NFC,24,3,44,depth
+1339,Davante Adams II,WR,New York Giants,NYG,NFC,30,6,47,depth
+1340,Stefon Diggs II,WR,New York Giants,NYG,NFC,31,8,9,depth
+1341,CeeDee Lamb,WR,New York Giants,NYG,NFC,33,12,28,depth
+1342,A.J. Brown,WR,New York Giants,NYG,NFC,36,12,84,depth
+1343,Evan Engram,TE,New York Giants,NYG,NFC,24,1,35,starter
+1344,Travis Kelce,TE,New York Giants,NYG,NFC,27,5,99,backup
+1345,Evan Engram,TE,New York Giants,NYG,NFC,28,6,88,backup
+1346,Lamar Jackson,QB,Indianapolis Colts,IND,AFC,31,7,53,starter
+1347,Tua Tagovailoa Jr.,QB,Indianapolis Colts,IND,AFC,31,9,62,backup
+1348,Justin Herbert,QB,Indianapolis Colts,IND,AFC,28,4,71,backup
+1349,Derrick Henry,RB,Indianapolis Colts,IND,AFC,33,12,37,starter
+1350,Joe Mixon,RB,Indianapolis Colts,IND,AFC,35,12,90,rb2
+1351,Alvin Kamara,RB,Indianapolis Colts,IND,AFC,31,8,45,depth
+1352,Austin Ekeler,RB,Indianapolis Colts,IND,AFC,28,7,67,depth
+1353,Christian McCaffrey,RB,Indianapolis Colts,IND,AFC,30,7,47,depth
+1354,CeeDee Lamb,WR,Indianapolis Colts,IND,AFC,33,9,96,starter
+1355,Michael Hopkins,WR,Indianapolis Colts,IND,AFC,28,8,56,wr2
+1356,CeeDee Lamb,WR,Indianapolis Colts,IND,AFC,26,2,70,depth
+1357,Jordan Adams,WR,Indianapolis Colts,IND,AFC,22,1,37,depth
+1358,Michael Lamb,WR,Indianapolis Colts,IND,AFC,24,4,16,depth
+1359,Mike Evans,WR,Indianapolis Colts,IND,AFC,29,7,85,depth
+1360,DeAndre Hopkins,WR,Indianapolis Colts,IND,AFC,29,6,78,depth
+1361,Pat Freiermuth,TE,Indianapolis Colts,IND,AFC,29,8,81,starter
+1362,George Kittle Sr.,TE,Indianapolis Colts,IND,AFC,22,1,20,backup
+1363,Kirk Cousins,QB,Tennessee Titans,TEN,AFC,30,10,26,starter
+1364,Russell Wilson,QB,Tennessee Titans,TEN,AFC,24,4,27,backup
+1365,Tyler Wilson,QB,Tennessee Titans,TEN,AFC,33,10,59,backup
+1366,Alvin Kamara,RB,Tennessee Titans,TEN,AFC,29,8,6,starter
+1367,Jordan Taylor,RB,Tennessee Titans,TEN,AFC,27,4,9,rb2
+1368,Jordan Jones,RB,Tennessee Titans,TEN,AFC,33,12,10,depth
+1369,Jordan Ekeler,RB,Tennessee Titans,TEN,AFC,29,6,41,depth
+1370,A.J. Brown,WR,Tennessee Titans,TEN,AFC,25,4,77,starter
+1371,Mike Evans,WR,Tennessee Titans,TEN,AFC,24,4,77,wr2
+1372,Stefon Diggs,WR,Tennessee Titans,TEN,AFC,25,4,47,depth
+1373,Tyler Brown,WR,Tennessee Titans,TEN,AFC,23,3,88,depth
+1374,A.J. Brown II,WR,Tennessee Titans,TEN,AFC,32,11,48,depth
+1375,Tyler Metcalf,WR,Tennessee Titans,TEN,AFC,27,5,40,depth
+1376,Brandon Allen,WR,Tennessee Titans,TEN,AFC,26,2,85,depth
+1377,David Njoku,TE,Tennessee Titans,TEN,AFC,32,12,97,starter
+1378,Pat Freiermuth III,TE,Tennessee Titans,TEN,AFC,26,3,5,backup
+1379,DeShawn Kelce,TE,Tennessee Titans,TEN,AFC,31,10,14,backup
+1380,Jalen Hurts,QB,Washington Commanders,WSH,NFC,29,5,2,starter
+1381,Justin Herbert,QB,Washington Commanders,WSH,NFC,23,2,64,backup
+1382,Marcus Tagovailoa,QB,Washington Commanders,WSH,NFC,28,6,32,backup
+1383,Alvin Kamara,RB,Washington Commanders,WSH,NFC,30,10,65,starter
+1384,Derrick Henry,RB,Washington Commanders,WSH,NFC,31,8,84,rb2
+1385,Nick Chubb III,RB,Washington Commanders,WSH,NFC,33,10,37,depth
+1386,Aaron Jones,RB,Washington Commanders,WSH,NFC,34,12,37,depth
+1387,Christian McCaffrey,RB,Washington Commanders,WSH,NFC,33,10,45,depth
+1388,A.J. Brown,WR,Washington Commanders,WSH,NFC,25,4,77,starter
+1389,Tyler Metcalf,WR,Washington Commanders,WSH,NFC,27,6,11,wr2
+1390,DK Metcalf,WR,Washington Commanders,WSH,NFC,34,12,98,depth
+1391,Mike Evans,WR,Washington Commanders,WSH,NFC,26,2,32,depth
+1392,Keenan Allen,WR,Washington Commanders,WSH,NFC,29,8,72,depth
+1393,A.J. Brown III,WR,Washington Commanders,WSH,NFC,34,11,61,depth
+1394,Davante Adams,WR,Washington Commanders,WSH,NFC,32,12,69,depth
+1395,Pat Freiermuth,TE,Washington Commanders,WSH,NFC,34,12,87,starter
+1396,Brandon Njoku,TE,Washington Commanders,WSH,NFC,31,11,77,backup
+1397,Aaron Rodgers,QB,New Orleans Saints,NO,NFC,30,9,75,starter
+1398,Jalen Hurts III,QB,New Orleans Saints,NO,NFC,28,6,75,backup
+1399,Justin Herbert,QB,New Orleans Saints,NO,NFC,33,12,40,backup
+1400,Saquon Barkley,RB,New Orleans Saints,NO,NFC,23,2,65,starter
+1401,Saquon Barkley,RB,New Orleans Saints,NO,NFC,30,9,29,rb2
+1402,Saquon Barkley,RB,New Orleans Saints,NO,NFC,29,9,45,depth
+1403,A.J. Brown,WR,New Orleans Saints,NO,NFC,30,6,22,starter
+1404,Marcus Metcalf,WR,New Orleans Saints,NO,NFC,23,1,29,wr2
+1405,Tyreek Hill,WR,New Orleans Saints,NO,NFC,31,11,88,depth
+1406,CeeDee Lamb,WR,New Orleans Saints,NO,NFC,36,12,20,depth
+1407,CeeDee Lamb,WR,New Orleans Saints,NO,NFC,28,7,70,depth
+1408,Tyreek Hill Jr.,WR,New Orleans Saints,NO,NFC,26,6,46,depth
+1409,Mark Andrews,TE,New Orleans Saints,NO,NFC,25,3,32,starter
+1410,Darren Waller,TE,New Orleans Saints,NO,NFC,32,9,99,backup
+1411,Justin Herbert,QB,Chicago Bears,CHI,NFC,22,1,26,starter
+1412,Josh Allen,QB,Chicago Bears,CHI,NFC,23,1,52,backup
+1413,Joe Mixon,RB,Chicago Bears,CHI,NFC,35,12,97,starter
+1414,Dalvin Cook III,RB,Chicago Bears,CHI,NFC,29,5,65,rb2
+1415,Alvin Kamara,RB,Chicago Bears,CHI,NFC,23,2,25,depth
+1416,Derrick Henry,RB,Chicago Bears,CHI,NFC,34,11,69,depth
+1417,Nick Chubb,RB,Chicago Bears,CHI,NFC,26,6,85,depth
+1418,DeAndre Hopkins,WR,Chicago Bears,CHI,NFC,35,12,12,starter
+1419,A.J. Brown Jr.,WR,Chicago Bears,CHI,NFC,33,12,54,wr2
+1420,Keenan Allen,WR,Chicago Bears,CHI,NFC,23,2,71,depth
+1421,A.J. Brown,WR,Chicago Bears,CHI,NFC,29,8,53,depth
+1422,Cooper Kupp,WR,Chicago Bears,CHI,NFC,33,10,30,depth
+1423,Brandon Diggs,WR,Chicago Bears,CHI,NFC,29,8,19,depth
+1424,Pat Freiermuth,TE,Chicago Bears,CHI,NFC,30,7,58,starter
+1425,Dallas Goedert,TE,Chicago Bears,CHI,NFC,25,3,85,backup
+1426,Lamar Jackson,QB,Denver Broncos,DEN,AFC,30,6,95,starter
+1427,Tua Tagovailoa,QB,Denver Broncos,DEN,AFC,23,2,51,backup
+1428,Christian McCaffrey,RB,Denver Broncos,DEN,AFC,36,12,54,starter
+1429,Nick Chubb,RB,Denver Broncos,DEN,AFC,24,4,27,rb2
+1430,Jordan Cook,RB,Denver Broncos,DEN,AFC,25,3,73,depth
+1431,Saquon Barkley,RB,Denver Broncos,DEN,AFC,24,2,58,depth
+1432,A.J. Brown,WR,Denver Broncos,DEN,AFC,27,3,17,starter
+1433,CeeDee Lamb,WR,Denver Broncos,DEN,AFC,27,5,54,wr2
+1434,A.J. Brown,WR,Denver Broncos,DEN,AFC,30,10,56,depth
+1435,Davante Adams,WR,Denver Broncos,DEN,AFC,33,10,27,depth
+1436,Brandon Diggs,WR,Denver Broncos,DEN,AFC,27,7,95,depth
+1437,Dallas Goedert,TE,Denver Broncos,DEN,AFC,23,2,10,starter
+1438,Kyle Pitts,TE,Denver Broncos,DEN,AFC,29,5,35,backup
+1439,Jalen Hurts,QB,Carolina Panthers,CAR,NFC,28,7,52,starter
+1440,Josh Allen,QB,Carolina Panthers,CAR,NFC,28,7,21,backup
+1441,Nick Chubb,RB,Carolina Panthers,CAR,NFC,32,8,69,starter
+1442,Derrick Henry,RB,Carolina Panthers,CAR,NFC,29,7,24,rb2
+1443,Alvin Kamara,RB,Carolina Panthers,CAR,NFC,28,8,10,depth
+1444,Mike Evans,WR,Carolina Panthers,CAR,NFC,31,7,66,starter
+1445,Keenan Allen,WR,Carolina Panthers,CAR,NFC,33,12,12,wr2
+1446,DeAndre Hopkins,WR,Carolina Panthers,CAR,NFC,35,11,58,depth
+1447,A.J. Brown,WR,Carolina Panthers,CAR,NFC,31,11,78,depth
+1448,Stefon Diggs,WR,Carolina Panthers,CAR,NFC,22,1,53,depth
+1449,Davante Adams Jr.,WR,Carolina Panthers,CAR,NFC,32,12,70,depth
+1450,Keenan Allen,WR,Carolina Panthers,CAR,NFC,26,5,9,depth
+1451,Evan Engram,TE,Carolina Panthers,CAR,NFC,29,7,90,starter
+1452,Brandon Njoku,TE,Carolina Panthers,CAR,NFC,27,4,13,backup
+1453,Dallas Goedert,TE,Carolina Panthers,CAR,NFC,32,9,16,backup
+1454,Josh Allen,QB,Arizona Cardinals,ARI,NFC,31,9,16,starter
+1455,Josh Allen,QB,Arizona Cardinals,ARI,NFC,32,11,59,backup
+1456,Jonathan Taylor,RB,Arizona Cardinals,ARI,NFC,28,6,17,starter
+1457,Austin Ekeler,RB,Arizona Cardinals,ARI,NFC,27,4,32,rb2
+1458,Saquon Barkley,RB,Arizona Cardinals,ARI,NFC,32,11,5,depth
+1459,Christian McCaffrey,RB,Arizona Cardinals,ARI,NFC,29,7,72,depth
+1460,Derrick Henry,RB,Arizona Cardinals,ARI,NFC,25,4,93,depth
+1461,DK Metcalf,WR,Arizona Cardinals,ARI,NFC,29,7,10,starter
+1462,DK Metcalf,WR,Arizona Cardinals,ARI,NFC,32,9,29,wr2
+1463,A.J. Brown,WR,Arizona Cardinals,ARI,NFC,28,5,64,depth
+1464,Tyreek Hill,WR,Arizona Cardinals,ARI,NFC,28,4,68,depth
+1465,A.J. Brown,WR,Arizona Cardinals,ARI,NFC,30,10,17,depth
+1466,Cooper Kupp II,WR,Arizona Cardinals,ARI,NFC,34,10,18,depth
+1467,Pat Freiermuth,TE,Arizona Cardinals,ARI,NFC,28,7,24,starter
+1468,T.J. Hockenson III,TE,Arizona Cardinals,ARI,NFC,32,11,64,backup
+1469,Mark Andrews,TE,Arizona Cardinals,ARI,NFC,23,2,54,backup
+1470,Trevor Lawrence,QB,New England Patriots,NE,AFC,28,4,64,starter
+1471,DeShawn Jackson,QB,New England Patriots,NE,AFC,36,12,18,backup
+1472,Joe Mixon,RB,New England Patriots,NE,AFC,33,10,99,starter
+1473,Derrick Henry,RB,New England Patriots,NE,AFC,25,1,43,rb2
+1474,Christian McCaffrey,RB,New England Patriots,NE,AFC,23,2,68,depth
+1475,Michael Taylor,RB,New England Patriots,NE,AFC,30,8,41,depth
+1476,Saquon Barkley,RB,New England Patriots,NE,AFC,32,10,36,depth
+1477,CeeDee Lamb,WR,New England Patriots,NE,AFC,27,4,14,starter
+1478,Mike Evans,WR,New England Patriots,NE,AFC,27,5,71,wr2
+1479,DK Metcalf,WR,New England Patriots,NE,AFC,30,8,93,depth
+1480,DeAndre Hopkins,WR,New England Patriots,NE,AFC,33,12,72,depth
+1481,Cooper Kupp,WR,New England Patriots,NE,AFC,33,9,39,depth
+1482,Travis Kelce,TE,New England Patriots,NE,AFC,30,7,14,starter
+1483,Travis Kelce,TE,New England Patriots,NE,AFC,21,1,1,backup
